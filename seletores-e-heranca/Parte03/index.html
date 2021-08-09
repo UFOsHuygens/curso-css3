@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Curso CSS Impacta Aula 02 Parte 03</title>
+        <style>
+            input[id=sim]:checked ~ label[for=sim] {
+                color: red;
+                font-weight: bold;
+            }
+            input[id=nao]:checked ~ label[for=nao] {
+                color: blue;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <header>Trabalhando com  CSS3</header>
+        <section>
+            <article>
+                <p>Conteúdo do primeiro parágrafo</p>
+                <form>
+                    <input type="radio" id="sim" name="escolha">
+                    <label for="sim">Sim</label>
+
+                    <input type="radio" id="nao" name="escolha">
+                    <label for="nao">Não</label>
+                </form>
+            </article>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Curso CSS Impacta Aula 02 Parte 02</title>
+        <style>
+            section article p {
+                letter-spacing: 1.2em;
+                text-transform: uppercase;
+            }
+            section article p:nth-of-type(2) {
+                color: red;
+                letter-spacing: normal;
+                text-transform: none;
+            }
+            footer p {
+                background-color: #99ccff;
+            }
+            nav ul li a {
+                color: red;
+                text-decoration: none;
+            }
+            nav ul li a:hover {
+                color: black;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <header>Trabalhando com CSS3</header>
+        <nav>
+            <ul>
+                <li><a href="http://www.impacta.com.br">IMPACTA</a></li>
+            </ul>
+        </nav>
+        <section>
+            <article>
+                <p>Conteúdo do primeiro parágrafo</p>
+                <p>Conteúdo do segundo parágrafo</p>
+                <p>Conteúdo do terceiro parágrafo</p>
+            </article>
+        </section>
+        <footer>
+            <p>Texto do rodapé</p>
+        </footer>
+    </body>
+</html>

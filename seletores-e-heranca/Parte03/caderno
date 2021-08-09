@@ -1,0 +1,6 @@
+1) Aprendi sobre o a hierarquia de herança de estilos (tag -> classe -> id) sendo o seletor id que sobrepõe todas as propriedades de classes e tags, e aprendi sobre o uso da pseudo classe checked (usada para por propriedades css quando o elemento input estiver verificado)
+
+Propriedades usadas:
+
+Color (cor do texto)
+Font-weight (espessura do texto)

@@ -1,0 +1,20 @@
+1) Aprendi o que é e como criar um parallax em css3
+
+Propriedades usadas:
+
+Margin (distancia do elemento aos arredores)
+Padding (distancia do preenchimento do elemento)
+Width (tamanho da largura)
+Height (tamanho da altura)
+Font-family (tipo ou aparência da fonte)
+background-repeat (se o background deve repetir-se dentro do elemento)
+Background-position (posição do background dentro do elemento)
+background-image (busca uma imagem para o background)
+Max-width (largura maxima)
+Text-shadow (sombreamento no texto)
+Color (cor do texto)
+Text-align (alinhamento do texto no layout)
+Font-size (tamanho da fonte)
+Margin-top (distancia do topo)
+Line-height (distancia das linhas na vertical)
+background-attachment (define se a imagem vai ou não rolar com seu bloco)

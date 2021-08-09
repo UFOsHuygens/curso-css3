@@ -1,0 +1,17 @@
+1) Reforcei mais meus conhecimentos sobre display flex e suas propriedades
+
+Propriedades usadas:
+
+background (cor do fundo)
+width (tamanho da largura)
+height (tamanho da altura)
+padding (espaçamento entre os elementos filho)
+margin (distancia entre dois elementos)
+background-color (cor do fundo)
+position (define o tipo de posicionamento: fixed, relative, absolute...)
+left (distancia esquerda)
+Display (especifica o tipo de layout: flex, inline, block...)
+Flex-wrap (Se permite quebras no layout ou não)
+Flex-direction (Define direção do layout: horizontal ou vertical)
+justify-content (Define diferentes formas de posicionar o layout na horizontal)
+align-items (Define diferentes formas de posicionar o layout na vertical)

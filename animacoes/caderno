@@ -1,0 +1,13 @@
+1) Aprendi como criar animações no css usando @Keyframes
+
+Propriedades usadas:
+
+Width (tamanho da largura)
+Height (tamanho da altura)
+Margin-top (distancia do topo)
+Background-color (cor do fundo)
+Animation-name (nome da animação criada no keyframes)
+Animation-duration (duração da animação)
+transform: rotate (rotação do elemento)
+Border-radius (define bordas redondas ao elemento)
+Margin (distancia do elemento aos arredores)

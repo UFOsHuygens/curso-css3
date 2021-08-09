@@ -1,0 +1,9 @@
+1) Aprendi como importar e implementar diferentes tipos de fontes aos elementos de texto
+
+Propriedades usadas:
+
+font-weight (espessura da fonte)
+Font-style (estilo da fonte)
+Font-size (tamanho da fonte)
+Font-family (define o tipo/aparencia da fonte)
+@(font-face)Src: (usa-se para importar fontes externas)

@@ -1,0 +1,12 @@
+1) Aprendi sobre backgrounds e suas propriedades
+
+Propriedades usadas:
+
+Background-color (cor do fundo)
+width (tamanho da largura)
+height (tamanho da altura)
+Border (espessura da borda do elemento)
+background-image (busca uma imagem para o background)
+background-size (tamanho do background dentro do elemento)
+background-repeat (se o background deve repetir-se dentro do elemento)
+Background-position (posição do background dentro do elemento)

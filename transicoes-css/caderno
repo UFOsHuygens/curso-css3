@@ -1,0 +1,13 @@
+1) Aprendi sobre o uso da pseudo classe hover em css3
+:hover (quando o mouse sobrepõe o elemento) e a css transition (uma pequena animação nativa do navegador que pode ser usado no projeto)
+
+Propriedades usadas:
+
+Width (tamanho da largura)
+Height (tamanho da altura)
+Background-color (cor do fundo)
+opacity (opacidade do elemento)
+-webkit-transition[all 1s ease] (define tempo e tipo de animação a ser usada no hover)
+background-image (url da imagem de fundo)
+background-size (tamanho da imagem de fundo)
+background-repeat (se a imagem deve repetir no fundo)

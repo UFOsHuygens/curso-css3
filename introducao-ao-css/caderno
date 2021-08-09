@@ -1,0 +1,18 @@
+1) Aprendi o que é CSS, para que serve e suas versões...
+
+2) Aprendi sobre os tipos de estilo aplicados na estrutura html: Inline, Incorporado e Externo
+
+
+Usamos as propriedades:
+
+color (cor do texto)
+font-family (aparencia da fonte do texto)
+font-size (tamanho do texto)
+background-color (cor do fundo)
+text-transform (capitalização do texto, maiúsculas ou minúsculas)
+font (tamanho do texto e aparencia)
+
+
+E aprendi a importar arquivo css no arquivo css:
+
+@import "estilo2.css";

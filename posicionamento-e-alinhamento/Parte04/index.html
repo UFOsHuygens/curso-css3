@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Curso CSS Impacta Aula 03 Parte 04</title>
+        <style>
+            header {
+                background: #99ccff;
+                width: 400px;
+                height: auto;
+                padding: 50px; /*espaçamento entre os elementos filho*/
+            }
+            section {
+                background: #ccc;
+                width: 500px;
+                height: 600px;
+                margin: 20px 40px;
+                padding: 30px;
+            }
+            article {
+                width: auto;
+                height: 500px;
+                background-color: #fff;
+                position: relative;
+            }
+            article img {
+                width: 350px;
+                float: left;
+                left: 0px;
+            }
+            #grupo-01 {
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+            #grupo-01 div {
+                width: 200px;
+                height: 120px;
+                background-color: orange;
+                margin: 8px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            Trabalhando com  CSS3
+        </header>
+        <section>
+            <article>
+                <p>Conteúdo do primeiro parágrafo</p>
+                <div id="grupo-01">
+                    <div>A</div>
+                    <div>B</div>
+                    <div>C</div>
+                    <div>D</div>
+                </div>
+            </article>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+1) Aprendi sobre links, e as pseudo classes:
+nth-of-type (seleciona o elemento por posição de seu elemento pai)
+hover (evento para quando o mouse passa por cima)
+
+Propriedades usadas:
+
+letter-spacing (espaçamento entre letras)
+text-transform (capitalização do texto, maiúsculas ou minúsculas)
+color (cor do texto)
+background-color (cor do fundo)
+text-decoration (decoração do link)
+

@@ -1,0 +1,19 @@
+1) Reforcei mais meu aprendizado sobre box model, entendi que para toda posição absoluta o elemento pai deve ter uma posição relativa, pois o elemento absoluto trava apenas no layout relativo, também entendi que posicionamento static ignora o posicionamento absoluto do pai, e posicionamento fixed ignora a barra de rolagem
+
+Propriedades usadas:
+
+background (cor do fundo)
+width (tamanho da largura)
+height (tamanho da altura)
+padding (espaçamento entre os elementos filho)
+margin (distancia entre dois elementos)
+background-color (cor do fundo)
+position (define o tipo de posicionamento: fixed, relative, absolute...)
+right (distancia direita)
+display (especifica o tipo de layout: flex, inline, block...)
+left (distancia esquerda)
+top (distancia do topo)
+
+
+
+

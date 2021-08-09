@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Curso CSS Impacta Aula 09 Parte 01</title>
+        <style>
+            div#circulo {
+                width: 120px;
+                height: 120px;
+                background-color: orange;
+                border-radius: 50%;
+            }
+            div#triangulo {
+                width: 0;
+                height: 0;
+                border-left: 50px solid transparent;
+                border-right: 50px solid transparent;
+                border-bottom: 100px solid orange;
+                transform: rotate(-38deg);
+            }
+
+            div#poligono {
+                width: 0;
+                height: 0;
+                border: 50px solid transparent;
+                border-bottom-color: #333399;
+                position: relative;
+            }
+            div#poligono:after {
+                content: "";
+                width: 0;
+                height: 0;
+                border: 50px solid transparent;
+                border-top-color: #333399;
+                position: absolute;
+                top: 50px;
+                left: -50px;
+            }
+
+            div#equilibrio {
+                margin-top: 75px;
+                position: relative;
+                width: 96px;
+                height: 48px;
+                background-color: orange;
+                border: 2px solid blue;
+                border-width: 2px 2px 50px 2px;
+                border-radius: 100%;
+            }
+            div#equilibrio:after {
+                content: "";
+                position: absolute;
+                background-color: orange;
+                border: 18px solid blue;
+                width: 12px;
+                height: 12px;
+                border-radius: 100%;
+                left: 0;
+                top: 50%;
+            }
+            div#equilibrio:before {
+                content: "";
+                position: absolute;
+                background-color: blue;
+                border: 18px solid orange;
+                width: 12px;
+                height: 12px;
+                border-radius: 100%;
+                right: 0;
+                top: 50%;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="circulo"></div>
+        <div id="triangulo"></div>
+        <div id="poligono"></div>
+
+        <div id="equilibrio"></div>
+    </body>
+</html>

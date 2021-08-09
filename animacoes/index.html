@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Curso CSS Impacta Aula 11 Parte 01</title>
+        <style>
+            div {
+                margin-top: 50px;
+                width: 200px;
+                height: 200px;
+                background-color: indianred;
+            }
+            #div-01 {
+                animation: anima-div-01 1s infinite;
+            }
+            #div-02 {
+                animation: anima-div-02 3s infinite;
+            }
+            #div-03 {
+                animation: anima-div-03 3s infinite;
+                background-color: cadetblue;
+            }
+            #div-04 {
+                animation: anima-div-04 3s infinite;
+                background-color: palevioletred;
+            }
+            #div-05 {
+                animation: anima-div-05 3s infinite;
+                background-color: black;
+            }
+
+
+            @keyframes anima-div-01 {
+                0% {transform: rotate(0deg)}
+                100% {transform: rotate(360deg)}
+            }
+            @keyframes anima-div-02 {
+                0% {background-color: black;}
+                25% {background-color: lightcoral;}
+                50% {background-color: lightpink;}
+                75% {background-color: lightslategray;}
+                100% {background-color: lightsalmon;}
+            }
+            @keyframes anima-div-03 {
+                0% {margin-left: 0px;}
+                25% {margin-left: 500px;}
+            }
+            @keyframes anima-div-04 {
+                0% {width: 200px;}
+                25% {width: 500px;}
+            }
+            @keyframes anima-div-05 {
+                0% {border-radius: 0;}
+                25% {border-radius: 50%;}
+            }
+        </style>
+    </head>
+    <body>
+        <div id="div-01"></div>
+        <div id="div-02"></div>
+        <div id="div-03"></div>
+        <div id="div-04"></div>
+        <div id="div-05"></div>
+    </body>
+</html>

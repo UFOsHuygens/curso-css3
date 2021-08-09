@@ -1,0 +1,17 @@
+1) Aprendi a criar formas geométricas com css3, uso das pseudo classes after e before e a rotacionar um elemento
+
+Propriedades usadas:
+
+Width (tamanho da largura)
+Height (tamanho da altura)
+Background-color (cor do fundo)
+Border-left (espessura da borda esquerda)
+Border-right (espessura da borda direita)
+Border-bottom (espessura da borda inferior)
+transform-rotate (definir quantos graus o elemento deve rotacionar)
+Position (tipo de posição do elemento)
+Top (distancia de cima da pagina)
+Left (distancia do lado esquerdo)
+border-top-color (cor da borda superior)
+margin-top (distancia de cima do elemento)
+border-radius (criar bordas circulares no elemento)

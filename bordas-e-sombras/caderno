@@ -1,0 +1,13 @@
+1) Aprendi como criar diferentes tipos de bordas e definir sombras aos elementos
+
+Propriedades usadas:
+
+Width (tamanho da largura)
+Height (tamanho da altura)
+Background-color (cor do fundo)
+Border-width (tamanho da borda direita do elemento)
+border-color (cor das bordas)
+border-right-style (estilo da borda direita do elemento)
+border-left-style (estilo da borda esquerda do elemento)
+border-top-style (estilo da borda do topo do elemento)
+border-bottom-style (estilo da borda inferior do elemento)

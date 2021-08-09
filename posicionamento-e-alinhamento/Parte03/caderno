@@ -1,0 +1,16 @@
+1) Aprendi sobre elementos flutuantes de layout: float e clear
+
+Propriedades usadas:
+
+background (cor do fundo)
+width (tamanho da largura)
+height (tamanho da altura)
+padding (espaçamento entre os elementos filho)
+margin (distancia entre dois elementos)
+background-color (cor do fundo)
+position (define o tipo de posicionamento: fixed, relative, absolute...)
+left (distancia esquerda)
+Float (ponto flutuante do layout)
+
+
+

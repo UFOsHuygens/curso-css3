@@ -1,0 +1,9 @@
+1) Reforcei meu conhecimento sobre backgrounds, descobri diferentes formas de aplicar uma cor, por exemplo: (rgb) - (rgba) , (hsl) - (hsla) e sobre gradientes
+
+Propriedades usadas:
+
+Background-color (cor do fundo)
+width (tamanho da largura)
+height (tamanho da altura)
+Border (espessura da borda do elemento)
+background-image (busca uma imagem para o background)

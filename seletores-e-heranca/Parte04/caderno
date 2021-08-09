@@ -1,0 +1,8 @@
+1) Aprendi sobre a pseudo classe nth-child (usada para aplicar estilo em elementos com uma sequencia par ou impar) ex: nth-child(odd) ou nth-child(even)
+
+Propriedades usadas:
+
+background-color (cor do fundo)
+color (cor do texto)
+width (tamanho da largura)
+list-style (estilo da lista, usado para remover o ponto da lista)
